@@ -1,0 +1,131 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "price": "129999",
+      "model": "XPS 13",
+      "brand": "ExampleBrand",
+      "name": "Laptop"
+    },
+    {
+      "id": "2",
+      "name": "Smartphone",
+      "brand": "TechCo",
+      "model": "SmartPhone X",
+      "price": "79999"
+    },
+    {
+      "id": "3",
+      "name": "Smart TV",
+      "brand": "ElectroVision",
+      "model": "UltraVision 4K",
+      "price": 149999,
+      "specifications": {
+        "screen_size": "55 inches",
+        "resolution": "4K UHD",
+        "smart_features": true
+      }
+    },
+    {
+      "id": "4",
+      "name": "Digital Camera",
+      "brand": "FotoTech",
+      "model": "CapturePro 2000",
+      "price": 59999,
+      "specifications": {
+        "megapixels": 24,
+        "sensor_type": "APS-C",
+        "video_resolution": "4K"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Wireless Headphones",
+      "brand": "AudioSync",
+      "model": "SoundWave Pro",
+      "price": 14999,
+      "specifications": {
+        "wireless_technology": "Bluetooth 5.0",
+        "battery_life": "20 hours",
+        "noise_cancellation": true
+      }
+    },
+    {
+      "id": "6",
+      "name": "Gaming Console",
+      "brand": "GameMaster",
+      "model": "X-Play 720",
+      "price": 39999,
+      "specifications": {
+        "processor": "Custom AMD Zen 2",
+        "graphics": "RDNA 2",
+        "storage": "1TB SSD",
+        "max_resolution": "4K"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Fitness Tracker",
+      "brand": "FitLife",
+      "model": "FitTracker 5000",
+      "price": 7999,
+      "specifications": {
+        "tracking_features": [
+          "Heart Rate",
+          "Steps",
+          "Sleep"
+        ],
+        "water_resistance": true,
+        "display_type": "OLED"
+      }
+    },
+    {
+      "id": "8",
+      "name": "Drones",
+      "brand": "SkyExplorer",
+      "model": "AeroDrone X",
+      "price": 69999,
+      "specifications": {
+        "camera_resolution": "4K",
+        "flight_time": "30 minutes",
+        "range": "5 kilometers"
+      }
+    },
+    {
+      "id": "9",
+      "name": "External Hard Drive",
+      "brand": "DataVault",
+      "model": "SafeStorage 2TB",
+      "price": 8999,
+      "specifications": {
+        "capacity": "2TB",
+        "interface": "USB 3.0",
+        "compatibility": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ]
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "ufname": "Soham",
+      "ulast": "galande",
+      "upass": "s@1223",
+      "uemail": "Soham@sfa.com"
+    },
+    {
+      "id": "2",
+      "name": "Sourabh",
+      "password": "sou@1223",
+      "email": "Soham@sfa.com"
+    },
+    {
+      "id": "3",
+      "name": "Shashwat",
+      "password": "sha@1223"
+    }
+  ]
+}

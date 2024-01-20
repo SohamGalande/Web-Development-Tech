@@ -1,0 +1,18 @@
+.cirlce{
+    border: 10px solid ;
+    padding: 10px;
+    font-size: 30px;
+    border-radius: 90%;
+    background-color: pink;
+    display: inline;
+}
+
+.myform{
+    border: 3px solid silver;
+    padding: 9px;
+    background: coral;
+    border-radius: 15px;
+    box-shadow: 10px 12px 5px silver;
+    width: 300px;
+    display: inline-block;
+}

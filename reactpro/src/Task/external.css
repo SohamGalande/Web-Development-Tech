@@ -1,0 +1,11 @@
+.div{
+    display: inline-grid;
+    border: 2px solid grey;
+    outline: 3px ridge red;
+
+    button{
+        width: 93px;
+        padding: 3px;
+        margin-left: 95px ;
+    }
+}
